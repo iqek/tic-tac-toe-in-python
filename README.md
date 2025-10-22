@@ -13,7 +13,7 @@ originally developed as my **first semester CSE101 project**, later upgraded wit
 ## 🧠 About the AI
 
 the AI in `tic_tac_toe_ai.py` is a **simple rule-based system**, not a perfect minimax AI.  
-it tries to:
+It tries to:
 1. win if it can
 2. block the player's winning move
 3. prefer center or corners if available
@@ -21,7 +21,7 @@ it tries to:
 5. sometimes make random mistakes
 
 the goal was to make it feel more **human** and **unpredictable**, not unbeatable.  
-as the random mistakes are what keeps the game interesting.
+as the mistakes are what keep the game interesting.
 <br><br>
 ## 🕹️ How to Play
 
