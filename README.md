@@ -6,13 +6,13 @@ originally developed as my **first semester CSE101 project**, later upgraded wit
 ---
 
 ## 📂 Project Files
-[`dummy_tic_tac_toe_.py`](./dummy_tic_tac_toe.py): the original version, computer plays randomly 
+[`dummy_tic_tac_toe.py`](./dummy_tic_tac_toe.py): the original version, computer plays randomly 
 
 [`ai_tic_tac_toe.py`](./ai_tic_tac_toe.py): enhanced version with a simple and human-like AI opponent
 <br><br>
 ## 🧠 About the AI
 
-the AI in `tic_tac_toe_ai.py` is a **simple rule-based system**, not a perfect minimax AI.  
+the AI in `ai_tic_tac_toe.py` is a **simple rule-based system**, not a perfect minimax AI.  
 It tries to:
 1. win if it can
 2. block the player's winning move
