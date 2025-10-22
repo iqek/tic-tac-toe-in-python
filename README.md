@@ -12,7 +12,7 @@ originally developed as my **first semester CSE101 project**, later upgraded wit
 <br><br>
 ## 🧠 About the AI
 
-the AI in `tic_tac_toe_ai.py` is a **simple rule-based system**, not a perfect minimax AI.
+the AI in `tic_tac_toe_ai.py` is a **simple rule-based system**, not a perfect minimax AI.  
 it tries to:
 1. win if it can
 2. block the player's winning move
