@@ -3,9 +3,6 @@
 a simple console-based tic-tac-toe game written in python.  
 originally developed as my **first semester CSE101 project**, later upgraded with a **rule-based AI** opponent.
 
----
-
-## 📂 Project Files
 [`dummy_tic_tac_toe.py`](./dummy_tic_tac_toe.py): the original version, computer plays randomly 
 
 [`ai_tic_tac_toe.py`](./ai_tic_tac_toe.py): enhanced version with a simple and human-like AI opponent
@@ -20,14 +17,11 @@ It tries to:
 4. otherwise pick a random empty cell
 5. sometimes make random mistakes
 
-the goal was to make it feel more **human** and **unpredictable**, not unbeatable,  
-as the mistakes are what keep the game interesting.
+the goal was to make it feel more **human** and **unpredictable**, not unbeatable.
 <br><br>
 ## 🕹️ How to Play
 
 - you play as **X**, and the computer plays as **O**.  
 - use row number and column letter for inputs like 1a, 2b, 3c to make your move.  
-- to exit at any time, enter 00.  
-- invalid or already filled cells will be rejected.  
-- the game ends when either player wins or when the board is full (tie).  
+- to exit at any time, enter 00.
 
