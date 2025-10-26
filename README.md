@@ -7,7 +7,7 @@ originally developed as my **first semester CSE101 project**, later upgraded wit
 
 [`ai_tic_tac_toe.py`](./ai_tic_tac_toe.py): enhanced version with a simple and human-like AI opponent
 <br><br>
-## 🧠 About the AI
+## 🧠 about the AI
 
 the AI in `ai_tic_tac_toe.py` is a **simple rule-based system**, not a perfect minimax AI.  
 It tries to:
@@ -19,7 +19,7 @@ It tries to:
 
 the goal was to make it feel more **human** and **unpredictable**, not unbeatable.
 <br><br>
-## 🕹️ How to Play
+## how to play
 
 - you play as **X**, and the computer plays as **O**.  
 - use row number and column letter for inputs like 1a, 2b, 3c to make your move.  
