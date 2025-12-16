@@ -1,26 +1,15 @@
-# tic-tac-toe-in-python
+a console-based tic-tac-toe game written in python.  
+my cse101 project, later upgraded with a rule-based ai opponent, later upgraded with minimax ai.
 
-a beginner console-based tic-tac-toe game written in python.  
-originally made for my first semester CSE101 project, later upgraded with a rule-based ai opponent.
+`dummy_tic_tac_toe.py` is the original version, computer plays randomly.
 
-[`dummy_tic_tac_toe.py`](./dummy_tic_tac_toe.py): the original version, computer plays randomly 
+the ai in `ai_tic_tac_toe.py` is a simple rule-based system.  
+it sometimes makes random mistakes. the goal was to make it feel more human and unpredictable.
 
-[`ai_tic_tac_toe.py`](./ai_tic_tac_toe.py): new version with an ai opponent
-
-# 🧠 about the AI
-
-the ai in `ai_tic_tac_toe.py` is a simple rule-based system, not a perfect minimax ai.  
-It tries to:
-1. win if it can
-2. block the player's winning move
-3. prefer center or corners if available
-4. otherwise pick a random empty cell
-5. sometimes make random mistakes
-
-the goal was to make it feel more human and unpredictable, not unbeatable.
+the ai in `minimax_tic_tac_toe.py` is an unbeatable minimax algorithm.
 
 ## how to play
-- you are X, the computer is O.  
-- use row number and column letter for inputs like 1a, 2b, 3c to make your move.  
-- to exit at any time, enter 00.
+you are X, the computer is O.  
+use row number and column letter for inputs like 1a, 2b, 3c to make your move.  
+to exit at any time, enter 00.
 
